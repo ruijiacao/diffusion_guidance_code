@@ -1,4 +1,4 @@
-Repository for code and numerical examples for diffusion guidance.
+Repository for code and numerical examples for the paper *On the Robustness of Distribution Support under Diffusion Guidance*.
 
 Repo structure:
 - `numerical_experiments_density.ipynb`: ODE and SDE density experiments.
